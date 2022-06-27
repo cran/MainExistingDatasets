@@ -1,6 +1,6 @@
 Package: MainExistingDatasets
 Title: Main Existing Human Datasets
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(
     person("Etienne", "Camenen", , "etienne.camenen@gmail.com", role = c("aut", "cre")),
     person("Baptiste", "Couvy-Duchesne", role = "aut")
@@ -19,9 +19,9 @@ Language: en-US
 LazyData: false
 RoxygenNote: 7.1.2
 NeedsCompilation: no
-Packaged: 2022-06-17 11:29:14 UTC; rstudio
+Packaged: 2022-06-27 13:43:52 UTC; rstudio
 Author: Etienne Camenen [aut, cre],
   Baptiste Couvy-Duchesne [aut]
 Maintainer: Etienne Camenen <etienne.camenen@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-06-20 16:20:06 UTC
+Date/Publication: 2022-06-27 14:10:02 UTC
