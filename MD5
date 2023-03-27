@@ -1,7 +1,7 @@
-bd50ce77aa9c165045dd8d0a744de6aa *DESCRIPTION
-92309b9312a050ebc2bec008e6b69c19 *NAMESPACE
+8c6f9b5a1ae878a227e8678f82f3b674 *DESCRIPTION
+fa756ab647199e4f99e6d874a8a2dd32 *NAMESPACE
 b443427f8b39a57d9d794181049ddf69 *NEWS.md
-beef2d988f297de8a1b551d29ccccb36 *R/MainExistingDatasets-package.R
+9e4bb8381790196f18f6aa005f27a6b6 *R/MainExistingDatasets-package.R
 57d88bac0c4d18fef0003f5069ef75c7 *R/app_config.R
 a022ce0744f1d0da360f44402219b62c *R/app_server.R
 675e1d379d77a77acdea5bc5adb8e839 *R/app_ui.R
@@ -10,13 +10,13 @@ a022ce0744f1d0da360f44402219b62c *R/app_server.R
 1deabbea4de605f16c251010e537559c *R/human_datasets.R
 ddb210b6f7a4d85c54d752a1f4019fe0 *R/run_app.R
 a1c0ed8f206bae18f95d587e70dfe0c8 *README.md
-e1077ddc4961bb0e3656028a71281fcb *build/vignette.rds
+79c742064098e1e888e90cb05a11ca07 *build/vignette.rds
 b0c37f0bd8527d95aa62f3fd17e8a5a9 *data/human_datasets.rda
 ea592d2dffb795b8152447587423df11 *inst/app/www/style.css
 4ab3fd6dc648ab3acf3b2fad838eeadc *inst/doc/Tutorial.R
 740b0fd64b3dbcb98964a5dff95024cc *inst/doc/Tutorial.Rmd
-909db8987079c89f149a12c63cae2a22 *inst/doc/Tutorial.html
-63c8bf624a2aa82e3b4e1149340a0e6c *inst/golem-config.yml
+83ed803b9e131e38e3f195fc434b4a87 *inst/doc/Tutorial.html
+a6682b4f09c4e9eb8f158744bb3c0e59 *inst/golem-config.yml
 971da2e86f1a74de9cbfca71a5b0cc96 *man/MainExistingDatasets-package.Rd
 4775a1874f9ee5e09c04148fe09ef522 *man/human_datasets.Rd
 bb86a6d6128a87734d73042d9f9c95ce *man/run_app.Rd
